@@ -1,0 +1,27 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 926milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 926"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 59145"}
+{"logLevel":"info","message":"Listening on port:59145"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'HomePage.anaSayfaAc' and 'HomePage.anaSayfaAc'"}
+{"logLevel":"debug","message":"Found AnaSayfaya Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginPage.GirisYap' and 'LoginPage.GirisYap'"}
+{"logLevel":"debug","message":"Found Kullanici Girişi Yap in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tKullanici Girişi Yap : public void GirisYap()"}
+{"logLevel":"debug","message":"\tAnaSayfaya Git : public void anaSayfaAc()"}
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 28059
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 13, 2020 4:32:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'AnaSayfaya Git' using 'class HomePage.anaSayfaAc"}
+2020-08-13 16:32:36 INFO  HomePage:28 - Anasayfa açılıyor...
+{"logLevel":"debug","message":"Executing 'Kullanici Girişi Yap' using 'class LoginPage.GirisYap"}
+2020-08-13 16:32:40 INFO  HomePage:12 - Kullanıcı girişi yapılıyor...
+2020-08-13 16:32:40 INFO  HomePage:13 - Bu sayfaya geldi...

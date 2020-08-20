@@ -1,0 +1,332 @@
+13-08-2020 19:05:26.722 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+13-08-2020 19:05:26.723 [Gauge] [DEBUG] Found 1 files
+13-08-2020 19:05:26.724 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-08-2020 19:05:26.725 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-08-2020 19:05:26.725 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:05:26.725 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-08-2020 19:05:26.725 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54802
+13-08-2020 19:05:38.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+13-08-2020 19:05:38.038 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+13-08-2020 19:05:38.039 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+13-08-2020 19:05:38.039 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+13-08-2020 19:05:38.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+13-08-2020 19:05:38.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+13-08-2020 19:05:38.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+13-08-2020 19:05:38.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+13-08-2020 19:05:38.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+13-08-2020 19:05:38.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+13-08-2020 19:05:38.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+13-08-2020 19:05:38.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+13-08-2020 19:05:38.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+13-08-2020 19:05:38.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+13-08-2020 19:05:38.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+13-08-2020 19:05:38.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+13-08-2020 19:05:38.106 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+13-08-2020 19:05:38.106 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+13-08-2020 19:05:38.108 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+13-08-2020 19:05:38.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+13-08-2020 19:05:38.111 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+13-08-2020 19:05:38.111 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+13-08-2020 19:05:38.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+13-08-2020 19:05:38.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+13-08-2020 19:05:38.117 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+13-08-2020 19:05:38.117 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+13-08-2020 19:06:42.436 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:06:42.444 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:08:46.068 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:08:46.070 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:10:45.030 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:10:45.037 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:12:50.287 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+13-08-2020 19:12:50.287 [Gauge] [DEBUG] Found 1 files
+13-08-2020 19:12:50.290 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-08-2020 19:12:50.291 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-08-2020 19:12:50.291 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:12:50.291 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-08-2020 19:12:50.291 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55312
+13-08-2020 19:13:16.698 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+13-08-2020 19:13:16.698 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+13-08-2020 19:13:16.869 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+13-08-2020 19:13:16.869 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+13-08-2020 19:13:16.872 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+13-08-2020 19:13:16.872 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+13-08-2020 19:13:16.874 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+13-08-2020 19:13:16.874 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+13-08-2020 19:13:16.875 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+13-08-2020 19:13:16.876 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+13-08-2020 19:13:16.878 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+13-08-2020 19:13:16.878 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+13-08-2020 19:13:16.880 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+13-08-2020 19:13:16.880 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+13-08-2020 19:13:16.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+13-08-2020 19:13:16.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+13-08-2020 19:13:16.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+13-08-2020 19:13:16.885 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+13-08-2020 19:13:16.887 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+13-08-2020 19:13:16.887 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+13-08-2020 19:13:16.889 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+13-08-2020 19:13:16.889 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+13-08-2020 19:13:16.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+13-08-2020 19:13:16.891 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+13-08-2020 19:13:16.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+13-08-2020 19:13:16.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+13-08-2020 19:20:04.455 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+13-08-2020 19:20:04.455 [Gauge] [DEBUG] Found 1 files
+13-08-2020 19:20:04.457 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-08-2020 19:20:04.458 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-08-2020 19:20:04.458 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:20:04.458 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-08-2020 19:20:04.458 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55400
+13-08-2020 19:20:13.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+13-08-2020 19:20:13.629 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+13-08-2020 19:20:14.001 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+13-08-2020 19:20:14.001 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+13-08-2020 19:20:14.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+13-08-2020 19:20:14.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+13-08-2020 19:20:14.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+13-08-2020 19:20:14.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+13-08-2020 19:20:14.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+13-08-2020 19:20:14.128 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+13-08-2020 19:20:14.154 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+13-08-2020 19:20:14.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+13-08-2020 19:20:14.205 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+13-08-2020 19:20:14.205 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+13-08-2020 19:20:14.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+13-08-2020 19:20:14.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+13-08-2020 19:20:14.647 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+13-08-2020 19:20:14.647 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+13-08-2020 19:20:14.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+13-08-2020 19:20:14.744 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+13-08-2020 19:20:14.790 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+13-08-2020 19:20:14.790 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+13-08-2020 19:20:14.816 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+13-08-2020 19:20:14.816 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+13-08-2020 19:20:14.877 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+13-08-2020 19:20:14.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+13-08-2020 19:39:58.308 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+13-08-2020 19:39:58.308 [Gauge] [DEBUG] Found 1 files
+13-08-2020 19:39:58.310 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-08-2020 19:39:58.311 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-08-2020 19:39:58.311 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+13-08-2020 19:39:58.311 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-08-2020 19:39:58.311 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55648
+13-08-2020 19:40:07.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+13-08-2020 19:40:07.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+13-08-2020 19:40:07.995 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+13-08-2020 19:40:07.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+13-08-2020 19:40:08.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+13-08-2020 19:40:08.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+13-08-2020 19:40:08.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+13-08-2020 19:40:08.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+13-08-2020 19:40:08.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+13-08-2020 19:40:08.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+13-08-2020 19:40:08.653 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+13-08-2020 19:40:08.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+13-08-2020 19:40:08.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+13-08-2020 19:40:08.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+13-08-2020 19:40:08.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+13-08-2020 19:40:08.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+13-08-2020 19:40:08.656 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+13-08-2020 19:40:08.656 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+13-08-2020 19:40:08.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+13-08-2020 19:40:08.658 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+13-08-2020 19:40:08.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+13-08-2020 19:40:08.659 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+13-08-2020 19:40:08.687 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+13-08-2020 19:40:08.687 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+13-08-2020 19:40:08.690 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+13-08-2020 19:40:08.690 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+14-08-2020 09:32:26.251 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+14-08-2020 09:32:26.252 [Gauge] [DEBUG] Found 1 files
+14-08-2020 09:32:26.255 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-08-2020 09:32:26.261 [Gauge] [INFO] Initializing specs cache with 1 specs
+14-08-2020 09:32:26.261 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+14-08-2020 09:32:26.261 [Gauge] [INFO] Initializing steps cache with 1 steps
+14-08-2020 09:32:26.261 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56229
+14-08-2020 09:32:33.338 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+14-08-2020 09:32:33.338 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+14-08-2020 09:32:35.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+14-08-2020 09:32:35.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+14-08-2020 09:32:59.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+14-08-2020 09:32:59.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+14-08-2020 09:32:59.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+14-08-2020 09:32:59.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+14-08-2020 09:32:59.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+14-08-2020 09:32:59.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+14-08-2020 09:32:59.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+14-08-2020 09:32:59.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+14-08-2020 09:32:59.630 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+14-08-2020 09:32:59.631 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+14-08-2020 09:32:59.633 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+14-08-2020 09:32:59.633 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+14-08-2020 09:32:59.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+14-08-2020 09:32:59.637 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+14-08-2020 09:32:59.642 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+14-08-2020 09:32:59.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+14-08-2020 09:32:59.646 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+14-08-2020 09:32:59.646 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+14-08-2020 09:32:59.650 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+14-08-2020 09:32:59.650 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+14-08-2020 09:32:59.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+14-08-2020 09:32:59.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+17-08-2020 09:54:32.033 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+17-08-2020 09:54:32.033 [Gauge] [DEBUG] Found 1 files
+17-08-2020 09:54:32.045 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-08-2020 09:54:32.056 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-08-2020 09:54:32.056 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+17-08-2020 09:54:32.056 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-08-2020 09:54:32.056 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52228
+17-08-2020 09:54:43.949 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+17-08-2020 09:54:43.949 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+17-08-2020 09:54:43.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+17-08-2020 09:54:43.953 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+17-08-2020 09:54:44.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+17-08-2020 09:54:44.609 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+17-08-2020 09:54:44.623 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+17-08-2020 09:54:44.624 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+17-08-2020 09:54:44.624 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+17-08-2020 09:54:44.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+17-08-2020 09:54:44.625 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+17-08-2020 09:54:44.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+17-08-2020 09:54:44.625 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+17-08-2020 09:54:44.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+17-08-2020 09:54:44.627 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+17-08-2020 09:54:44.627 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+17-08-2020 09:54:44.627 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+17-08-2020 09:54:44.627 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+17-08-2020 09:54:44.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+17-08-2020 09:54:44.629 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+17-08-2020 09:54:44.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+17-08-2020 09:54:44.629 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+17-08-2020 09:54:44.652 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+17-08-2020 09:54:44.652 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+17-08-2020 09:54:44.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+17-08-2020 09:54:44.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+17-08-2020 09:54:44.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+17-08-2020 09:54:44.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+17-08-2020 17:21:59.365 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+17-08-2020 17:21:59.366 [Gauge] [DEBUG] Found 1 files
+17-08-2020 17:21:59.379 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-08-2020 17:21:59.390 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-08-2020 17:21:59.390 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+17-08-2020 17:21:59.390 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-08-2020 17:21:59.390 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57619
+17-08-2020 17:22:09.593 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+17-08-2020 17:22:09.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+17-08-2020 17:22:20.957 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+17-08-2020 17:22:20.957 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+17-08-2020 17:22:20.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+17-08-2020 17:22:20.959 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+17-08-2020 17:22:20.961 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+17-08-2020 17:22:20.961 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+17-08-2020 17:22:20.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+17-08-2020 17:22:20.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+17-08-2020 17:22:20.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+17-08-2020 17:22:20.965 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+17-08-2020 17:22:20.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+17-08-2020 17:22:20.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+17-08-2020 17:22:20.969 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+17-08-2020 17:22:20.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+17-08-2020 17:22:20.971 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+17-08-2020 17:22:20.971 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+17-08-2020 17:22:20.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+17-08-2020 17:22:20.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+17-08-2020 17:22:20.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+17-08-2020 17:22:20.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+17-08-2020 17:22:20.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+17-08-2020 17:22:20.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+17-08-2020 17:22:20.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+17-08-2020 17:22:20.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+17-08-2020 17:29:50.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+17-08-2020 17:29:50.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+17-08-2020 17:29:50.911 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+17-08-2020 17:29:50.911 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+17-08-2020 17:29:51.111 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+17-08-2020 17:29:51.113 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+18-08-2020 13:01:12.977 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+18-08-2020 13:01:12.979 [Gauge] [DEBUG] Found 1 files
+18-08-2020 13:01:12.999 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-08-2020 13:01:13.010 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-08-2020 13:01:13.010 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+18-08-2020 13:01:13.010 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-08-2020 13:01:13.011 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58322
+18-08-2020 13:10:37.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+18-08-2020 13:10:37.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+18-08-2020 13:10:37.033 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+18-08-2020 13:10:37.033 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+18-08-2020 13:10:37.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+18-08-2020 13:10:37.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+18-08-2020 13:10:37.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+18-08-2020 13:10:37.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+18-08-2020 13:10:37.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+18-08-2020 13:10:37.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+18-08-2020 13:10:37.036 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+18-08-2020 13:10:37.036 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+18-08-2020 13:10:37.038 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+18-08-2020 13:10:37.038 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+18-08-2020 13:10:37.040 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+18-08-2020 13:10:37.040 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+18-08-2020 13:10:37.040 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+18-08-2020 13:10:37.040 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+18-08-2020 13:10:37.041 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+18-08-2020 13:10:37.041 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+18-08-2020 13:10:37.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+18-08-2020 13:10:37.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+18-08-2020 13:10:37.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+18-08-2020 13:10:37.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+18-08-2020 13:10:37.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+18-08-2020 13:10:37.045 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+18-08-2020 17:43:25.369 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+18-08-2020 17:43:25.371 [Gauge] [DEBUG] Found 1 files
+18-08-2020 17:43:25.381 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-08-2020 17:43:25.382 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-08-2020 17:43:25.382 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+18-08-2020 17:43:25.382 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-08-2020 17:43:25.382 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52823
+18-08-2020 18:53:57.483 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+18-08-2020 18:53:57.483 [Gauge] [DEBUG] Found 1 files
+18-08-2020 18:53:57.492 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-08-2020 18:53:57.493 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-08-2020 18:53:57.493 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+18-08-2020 18:53:57.493 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-08-2020 18:53:57.493 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56745
+20-08-2020 10:43:04.502 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+20-08-2020 10:43:04.504 [Gauge] [DEBUG] Found 1 files
+20-08-2020 10:43:04.513 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+20-08-2020 10:43:04.518 [Gauge] [INFO] Initializing specs cache with 1 specs
+20-08-2020 10:43:04.518 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+20-08-2020 10:43:04.518 [Gauge] [INFO] Initializing steps cache with 1 steps
+20-08-2020 10:43:04.518 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61248
+20-08-2020 10:43:39.855 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"AnaSayfaya Git" > 
+20-08-2020 10:43:39.855 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"AnaSayfaya Git" parameterizedStepValue:"AnaSayfaya Git" > > 
+20-08-2020 10:43:39.889 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullanici Giri\305\237i Yap" > 
+20-08-2020 10:43:39.892 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullanici Giri\305\237i Yap" parameterizedStepValue:"Kullanici Giri\305\237i Yap" > > 
+20-08-2020 10:43:39.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Kontrol" > 
+20-08-2020 10:43:39.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Kontrol" parameterizedStepValue:"Login Kontrol" > > 
+20-08-2020 10:43:39.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Kontrol" > 
+20-08-2020 10:43:39.896 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Kontrol" parameterizedStepValue:"Sepet Kontrol" > > 
+20-08-2020 10:43:39.896 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Kategori Sec" > 
+20-08-2020 10:43:39.897 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Kategori Sec" parameterizedStepValue:"Rastgele Kategori Sec" > > 
+20-08-2020 10:43:39.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Marka Sec" > 
+20-08-2020 10:43:39.898 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Marka Sec" parameterizedStepValue:"Rastgele Marka Sec" > > 
+20-08-2020 10:43:39.899 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fiyat Araligi Belirle" > 
+20-08-2020 10:43:39.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fiyat Araligi Belirle" parameterizedStepValue:"Fiyat Araligi Belirle" > > 
+20-08-2020 10:43:39.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rastgele Urun Sec" > 
+20-08-2020 10:43:39.901 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rastgele Urun Sec" parameterizedStepValue:"Rastgele Urun Sec" > > 
+20-08-2020 10:43:39.902 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepete Git" > 
+20-08-2020 10:43:39.902 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepete Git" parameterizedStepValue:"Sepete Git" > > 
+20-08-2020 10:43:39.903 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Ekle" > 
+20-08-2020 10:43:39.903 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Ekle" parameterizedStepValue:"Adres Ekle" > > 
+20-08-2020 10:43:39.905 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Odeme Bilgileri" > 
+20-08-2020 10:43:39.905 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Odeme Bilgileri" parameterizedStepValue:"Odeme Bilgileri" > > 
+20-08-2020 10:43:39.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sepet Bosalt" > 
+20-08-2020 10:43:39.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sepet Bosalt" parameterizedStepValue:"Sepet Bosalt" > > 
+20-08-2020 10:43:39.907 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Adres Sil" > 
+20-08-2020 10:43:39.907 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Adres Sil" parameterizedStepValue:"Adres Sil" > > 
+20-08-2020 11:05:44.033 [Gauge] [INFO] Watching directory: C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs
+20-08-2020 11:05:44.034 [Gauge] [DEBUG] Found 1 files
+20-08-2020 11:05:44.035 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+20-08-2020 11:05:44.036 [Gauge] [INFO] Initializing specs cache with 1 specs
+20-08-2020 11:05:44.036 [Gauge] [DEBUG] Adding specs from C:\Users\TESTINIUM\IdeaProjects\HepsiBuradaTest\specs\HepsiBurada.spec
+20-08-2020 11:05:44.036 [Gauge] [INFO] Initializing steps cache with 1 steps
+20-08-2020 11:05:44.036 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61538

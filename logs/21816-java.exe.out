@@ -1,0 +1,29 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1471milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1471"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 62405"}
+{"logLevel":"info","message":"Listening on port:62405"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'LoginPage.GirisYap' and 'LoginPage.GirisYap'"}
+{"logLevel":"debug","message":"Found Kullanici Girişi Yap2 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.anaSayfaAc2' and 'HomePage.anaSayfaAc2'"}
+{"logLevel":"debug","message":"Found AnaSayfaya Git2 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginKontrolPage.loginKontrol' and 'LoginKontrolPage.loginKontrol'"}
+{"logLevel":"debug","message":"Found Login Kontrol2 in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tLogin Kontrol2 : public void loginKontrol()"}
+{"logLevel":"debug","message":"\tAnaSayfaya Git2 : public void anaSayfaAc2()"}
+{"logLevel":"debug","message":"\tKullanici Girişi Yap2 : public void GirisYap()"}
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 36444
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 13, 2020 12:22:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'AnaSayfaya Git2' using 'class HomePage.anaSayfaAc2"}
+2020-08-13 12:22:45 INFO  HomePage:170 - Anasayfa açılıyor...
+{"logLevel":"debug","message":"Executing 'Kullanici Girişi Yap2' using 'class LoginPage.GirisYap"}
+2020-08-13 12:22:50 INFO  HomePage:8 - Kullanıcı girişi yapılıyor...

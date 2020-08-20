@@ -1,0 +1,121 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1079milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1079"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 57636"}
+{"logLevel":"info","message":"Listening on port:57636"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepetBosalt' and 'HomePage.sepetBosalt'"}
+{"logLevel":"debug","message":"Found Sepet Bosalt in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.adresSil' and 'HomePage.adresSil'"}
+{"logLevel":"debug","message":"Found Adres Sil in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.fiyatBelirle' and 'HomePage.fiyatBelirle'"}
+{"logLevel":"debug","message":"Found Fiyat Araligi Belirle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.urunSec' and 'HomePage.urunSec'"}
+{"logLevel":"debug","message":"Found Rastgele Urun Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepeteGit' and 'HomePage.sepeteGit'"}
+{"logLevel":"debug","message":"Found Sepete Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.loginKontrol' and 'HomePage.loginKontrol'"}
+{"logLevel":"debug","message":"Found Login Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.rastgeleKategoriSec' and 'HomePage.rastgeleKategoriSec'"}
+{"logLevel":"debug","message":"Found Rastgele Kategori Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.anaSayfaAc' and 'HomePage.anaSayfaAc'"}
+{"logLevel":"debug","message":"Found AnaSayfaya Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.adresEkle' and 'HomePage.adresEkle'"}
+{"logLevel":"debug","message":"Found Adres Ekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepetKontrol' and 'HomePage.sepetKontrol'"}
+{"logLevel":"debug","message":"Found Sepet Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.markaSec' and 'HomePage.markaSec'"}
+{"logLevel":"debug","message":"Found Rastgele Marka Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.GirisYap' and 'HomePage.GirisYap'"}
+{"logLevel":"debug","message":"Found Kullanici Girişi Yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.odemeBilgileri' and 'HomePage.odemeBilgileri'"}
+{"logLevel":"debug","message":"Found Odeme Bilgileri in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tKullanici Girişi Yap : public void GirisYap()"}
+{"logLevel":"debug","message":"\tRastgele Kategori Sec : public void rastgeleKategoriSec()"}
+{"logLevel":"debug","message":"\tSepet Bosalt : public void sepetBosalt()"}
+{"logLevel":"debug","message":"\tAdres Sil : public void adresSil()"}
+{"logLevel":"debug","message":"\tOdeme Bilgileri : public void odemeBilgileri()"}
+{"logLevel":"debug","message":"\tSepet Kontrol : public void sepetKontrol()"}
+{"logLevel":"debug","message":"\tLogin Kontrol : public void loginKontrol()"}
+{"logLevel":"debug","message":"\tRastgele Marka Sec : public void markaSec()"}
+{"logLevel":"debug","message":"\tFiyat Araligi Belirle : public void fiyatBelirle()"}
+{"logLevel":"debug","message":"\tSepete Git : public void sepeteGit()"}
+{"logLevel":"debug","message":"\tAnaSayfaya Git : public void anaSayfaAc()"}
+{"logLevel":"debug","message":"\tRastgele Urun Sec : public void urunSec()"}
+{"logLevel":"debug","message":"\tAdres Ekle : public void adresEkle()"}
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 18178
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 13, 2020 4:06:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'AnaSayfaya Git' using 'class HomePage.anaSayfaAc"}
+2020-08-13 16:06:28 INFO  HomePage:30 - Anasayfa açılıyor...
+{"logLevel":"debug","message":"Executing 'Kullanici Girişi Yap' using 'class HomePage.GirisYap"}
+2020-08-13 16:06:32 INFO  HomePage:36 - Kullanıcı girişi yapılıyor...
+{"logLevel":"debug","message":"Executing 'Login Kontrol' using 'class HomePage.loginKontrol"}
+2020-08-13 16:06:37 INFO  HomePage:46 - Login başarılı. Sepet tutar kontrolü yapılacak...
+{"logLevel":"debug","message":"Executing 'Sepet Kontrol' using 'class HomePage.sepetKontrol"}
+2020-08-13 16:06:42 INFO  HomePage:52 - Sepet tutar kontrolü yapılıyor...
+2020-08-13 16:06:42 INFO  HomePage:53 - Sepette ürün yok.
+2020-08-13 16:06:43 INFO  HomePage:55 - Anasayfaya yönlendiriliyor...
+{"logLevel":"debug","message":"Executing 'Rastgele Kategori Sec' using 'class HomePage.rastgeleKategoriSec"}
+2020-08-13 16:06:44 INFO  HomePage:61 - Rastgele bir kategori seçiliyor...
+2020-08-13 16:06:47 INFO  HomePage:63 - Rastgele bir kategori seçildi...
+2020-08-13 16:06:47 INFO  HomePage:64 - Rastgele bir alt kategori seçiliyor...
+2020-08-13 16:06:49 INFO  HomePage:66 - Rastgele bir alt kategori seçildi...
+{"logLevel":"debug","message":"Executing 'Rastgele Marka Sec' using 'class HomePage.markaSec"}
+2020-08-13 16:06:50 INFO  HomePage:73 - Rastgele bir marka seçiliyor...
+2020-08-13 16:06:54 INFO  HomePage:75 - Rastgele bir marka seçildi...
+{"logLevel":"debug","message":"Executing 'Fiyat Araligi Belirle' using 'class HomePage.fiyatBelirle"}
+2020-08-13 16:06:54 INFO  HomePage:82 - Fiyat aralığı giriliyor..
+{"logLevel":"debug","message":"Executing 'Rastgele Urun Sec' using 'class HomePage.urunSec"}
+2020-08-13 16:07:00 INFO  HomePage:94 - Rastgele bir ürün seciliyor...
+2020-08-13 16:07:02 INFO  HomePage:96 - Rastgele bir ürün seçildi...
+2020-08-13 16:07:02 INFO  HomePage:103 - Ürün adı bilgisi csv dosyasına yazdırıldı...
+2020-08-13 16:07:02 INFO  HomePage:104 - Tutar bilgisi csv dosyasına yazdırıldı...
+Ürün Adı: HP 6ML40AA 21.5" 144Hz 1ms (HDMI+VGA) Freesync Oyuncu Monitör
+Toplam Tutar: 1.351
+2020-08-13 16:07:02 INFO  HomePage:109 - Seçilen ürün sepete ekleniyor...
+2020-08-13 16:07:05 INFO  HomePage:111 - Seçilen ürün sepete eklendi...
+{"logLevel":"debug","message":"Executing 'Sepete Git' using 'class HomePage.sepeteGit"}
+2020-08-13 16:07:07 INFO  HomePage:126 - Sepet kontrol edilecek...
+2020-08-13 16:07:08 INFO  HomePage:128 - Sepete gidildi...
+2020-08-13 16:07:09 INFO  HomePage:130 - Sepetteki ürün bir adet arttırıldı...
+2020-08-13 16:07:12 INFO  HomePage:133 - Sepetteki ürün bir adet arttırıldı...
+java.io.IOException: This instance of the CsvWriter class has already been closed.
+	at com.csvreader.CsvWriter.checkClosed(Unknown Source)
+	at com.csvreader.CsvWriter.write(Unknown Source)
+	at com.csvreader.CsvWriter.write(Unknown Source)
+	at HomePage.sepeteGit(HomePage.java:137)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:28)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59)
+	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41)
+	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14)
+	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33)
+	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19)
+	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:41)
+	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+{"logLevel":"debug","message":"Executing 'Adres Ekle' using 'class HomePage.adresEkle"}
+{"logLevel":"debug","message":"Executing 'Odeme Bilgileri' using 'class HomePage.odemeBilgileri"}
+2020-08-13 16:07:20 INFO  HomePage:171 - Ödeme Ekranına yönlendiriliyor...
+2020-08-13 16:07:26 INFO  HomePage:178 - Ödeme bilgileri girildi ana sayfaya yönlendiriliyor...
+{"logLevel":"debug","message":"Executing 'Sepet Bosalt' using 'class HomePage.sepetBosalt"}
+2020-08-13 16:07:27 INFO  HomePage:184 - Sepet ekranına yönlendiriliyor...
+2020-08-13 16:07:29 INFO  HomePage:187 - Sepet boşaltıldı...
+{"logLevel":"debug","message":"Executing 'Adres Sil' using 'class HomePage.adresSil"}
+2020-08-13 16:07:29 INFO  HomePage:192 - Adreslerim ekranına yönlendiriliyor...
+2020-08-13 16:07:36 INFO  HomePage:203 - Adreslerim silindi...
+2020-08-13 16:07:36 INFO  HomePage:204 - Otomasyon tamamlandı...

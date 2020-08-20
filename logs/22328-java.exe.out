@@ -1,0 +1,48 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1039milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1039"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 59113"}
+{"logLevel":"info","message":"Listening on port:59113"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'HomePage.loginKontrol' and 'HomePage.loginKontrol'"}
+{"logLevel":"debug","message":"Found Login Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.anaSayfaAc' and 'HomePage.anaSayfaAc'"}
+{"logLevel":"debug","message":"Found AnaSayfaya Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.markaSec' and 'HomePage.markaSec'"}
+{"logLevel":"debug","message":"Found Rastgele Marka Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepetKontrol' and 'HomePage.sepetKontrol'"}
+{"logLevel":"debug","message":"Found Sepet Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.rastgeleKatSec' and 'HomePage.rastgeleKatSec'"}
+{"logLevel":"debug","message":"Found Rastgele Kategori Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.GirisYap' and 'HomePage.GirisYap'"}
+{"logLevel":"debug","message":"Found Kullanici Girişi Yap in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSepet Kontrol : public void sepetKontrol()"}
+{"logLevel":"debug","message":"\tLogin Kontrol : public void loginKontrol()"}
+{"logLevel":"debug","message":"\tRastgele Marka Sec : public void markaSec()"}
+{"logLevel":"debug","message":"\tKullanici Girişi Yap : public void GirisYap()"}
+{"logLevel":"debug","message":"\tRastgele Kategori Sec : public void rastgeleKatSec()"}
+{"logLevel":"debug","message":"\tAnaSayfaya Git : public void anaSayfaAc()"}
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 36787
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 12, 2020 5:43:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'AnaSayfaya Git' using 'class HomePage.anaSayfaAc"}
+2020-08-12 17:43:25 INFO  HomePage:26 - Anasayfa açılıyor...
+{"logLevel":"debug","message":"Executing 'Kullanici Girişi Yap' using 'class HomePage.GirisYap"}
+2020-08-12 17:43:29 INFO  HomePage:32 - Kullanıcı girişi yapılıyor...
+{"logLevel":"debug","message":"Executing 'Login Kontrol' using 'class HomePage.loginKontrol"}
+2020-08-12 17:43:34 INFO  HomePage:42 - Login başarılı. Sepet tutar kontrolü yapılacak...
+{"logLevel":"debug","message":"Executing 'Sepet Kontrol' using 'class HomePage.sepetKontrol"}
+2020-08-12 17:43:38 INFO  HomePage:48 - Sepet tutar kontrolü yapılıyor...
+2020-08-12 17:43:38 INFO  HomePage:49 - Sepette ürün yok.
+2020-08-12 17:43:40 INFO  HomePage:51 - Anasayfaya yönlendiriliyor...
+{"logLevel":"debug","message":"Executing 'Rastgele Kategori Sec' using 'class HomePage.rastgeleKatSec"}
+2020-08-12 17:43:41 INFO  HomePage:57 - Rastgele bir kategori seçiliyor...
+2020-08-12 17:44:10 INFO  HomePage:59 - Rastgele bir kategori seçildi...
+2020-08-12 17:44:10 INFO  HomePage:60 - Rastgele bir alt kategori seçiliyor...

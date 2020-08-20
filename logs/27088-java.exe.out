@@ -1,0 +1,95 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 2776milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 2776"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 61130"}
+{"logLevel":"info","message":"Listening on port:61130"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepetBosalt' and 'HomePage.sepetBosalt'"}
+{"logLevel":"debug","message":"Found Sepet Bosalt in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.adresSil' and 'HomePage.adresSil'"}
+{"logLevel":"debug","message":"Found Adres Sil in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.rastgeleKatSec' and 'HomePage.rastgeleKatSec'"}
+{"logLevel":"debug","message":"Found Rastgele Kategori Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.fiyatBelirle' and 'HomePage.fiyatBelirle'"}
+{"logLevel":"debug","message":"Found Fiyat Araligi Belirle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.urunSec' and 'HomePage.urunSec'"}
+{"logLevel":"debug","message":"Found Rastgele Urun Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepeteGit' and 'HomePage.sepeteGit'"}
+{"logLevel":"debug","message":"Found Sepete Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.loginKontrol' and 'HomePage.loginKontrol'"}
+{"logLevel":"debug","message":"Found Login Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.anaSayfaAc' and 'HomePage.anaSayfaAc'"}
+{"logLevel":"debug","message":"Found AnaSayfaya Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.adresEkle' and 'HomePage.adresEkle'"}
+{"logLevel":"debug","message":"Found Adres Ekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.sepetKontrol' and 'HomePage.sepetKontrol'"}
+{"logLevel":"debug","message":"Found Sepet Kontrol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.markaSec' and 'HomePage.markaSec'"}
+{"logLevel":"debug","message":"Found Rastgele Marka Sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.GirisYap' and 'HomePage.GirisYap'"}
+{"logLevel":"debug","message":"Found Kullanici Girişi Yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomePage.odemeBilgileri' and 'HomePage.odemeBilgileri'"}
+{"logLevel":"debug","message":"Found Odeme Bilgileri in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tKullanici Girişi Yap : public void GirisYap()"}
+{"logLevel":"debug","message":"\tRastgele Kategori Sec : public void rastgeleKatSec()"}
+{"logLevel":"debug","message":"\tSepet Bosalt : public void sepetBosalt()"}
+{"logLevel":"debug","message":"\tAdres Sil : public void adresSil()"}
+{"logLevel":"debug","message":"\tOdeme Bilgileri : public void odemeBilgileri()"}
+{"logLevel":"debug","message":"\tSepet Kontrol : public void sepetKontrol()"}
+{"logLevel":"debug","message":"\tLogin Kontrol : public void loginKontrol()"}
+{"logLevel":"debug","message":"\tRastgele Marka Sec : public void markaSec()"}
+{"logLevel":"debug","message":"\tFiyat Araligi Belirle : public void fiyatBelirle()"}
+{"logLevel":"debug","message":"\tSepete Git : public void sepeteGit()"}
+{"logLevel":"debug","message":"\tAnaSayfaya Git : public void anaSayfaAc()"}
+{"logLevel":"debug","message":"\tRastgele Urun Sec : public void urunSec()"}
+{"logLevel":"debug","message":"\tAdres Ekle : public void adresEkle()"}
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 3562
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 13, 2020 12:00:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'AnaSayfaya Git' using 'class HomePage.anaSayfaAc"}
+2020-08-13 12:00:38 INFO  HomePage:28 - Anasayfa açılıyor...
+{"logLevel":"debug","message":"Executing 'Kullanici Girişi Yap' using 'class HomePage.GirisYap"}
+2020-08-13 12:00:43 INFO  HomePage:34 - Kullanıcı girişi yapılıyor...
+{"logLevel":"debug","message":"Executing 'Login Kontrol' using 'class HomePage.loginKontrol"}
+2020-08-13 12:00:47 INFO  HomePage:44 - Login başarılı. Sepet tutar kontrolü yapılacak...
+{"logLevel":"debug","message":"Executing 'Sepet Kontrol' using 'class HomePage.sepetKontrol"}
+2020-08-13 12:00:51 INFO  HomePage:50 - Sepet tutar kontrolü yapılıyor...
+2020-08-13 12:00:51 INFO  HomePage:51 - Sepette ürün yok.
+2020-08-13 12:00:52 INFO  HomePage:53 - Anasayfaya yönlendiriliyor...
+{"logLevel":"debug","message":"Executing 'Rastgele Kategori Sec' using 'class HomePage.rastgeleKatSec"}
+2020-08-13 12:00:53 INFO  HomePage:59 - Rastgele bir kategori seçiliyor...
+2020-08-13 12:00:55 INFO  HomePage:61 - Rastgele bir kategori seçildi...
+2020-08-13 12:00:55 INFO  HomePage:62 - Rastgele bir alt kategori seçiliyor...
+2020-08-13 12:00:58 INFO  HomePage:64 - Rastgele bir alt kategori seçildi...
+{"logLevel":"debug","message":"Executing 'Rastgele Marka Sec' using 'class HomePage.markaSec"}
+2020-08-13 12:00:59 INFO  HomePage:71 - Rastgele bir marka seçiliyor...
+2020-08-13 12:01:03 INFO  HomePage:73 - Rastgele bir marka seçildi...
+{"logLevel":"debug","message":"Executing 'Fiyat Araligi Belirle' using 'class HomePage.fiyatBelirle"}
+2020-08-13 12:01:03 INFO  HomePage:80 - Fiyat aralığı giriliyor..
+{"logLevel":"debug","message":"Executing 'Rastgele Urun Sec' using 'class HomePage.urunSec"}
+2020-08-13 12:01:09 INFO  HomePage:89 - Rastgele bir ürün seciliyor...
+2020-08-13 12:01:12 INFO  HomePage:91 - Rastgele bir ürün seçildi...
+2020-08-13 12:01:12 INFO  HomePage:94 - Seçilen ürün sepete ekleniyor...
+2020-08-13 12:01:14 INFO  HomePage:96 - Seçilen ürün sepete eklendi...
+{"logLevel":"debug","message":"Executing 'Sepete Git' using 'class HomePage.sepeteGit"}
+2020-08-13 12:01:16 INFO  HomePage:106 - Sepet kontrol edilecek...
+2020-08-13 12:01:17 INFO  HomePage:108 - Sepete gidildi...
+2020-08-13 12:01:19 INFO  HomePage:110 - Sepetteki ürün bir adet arttırıldı...
+2020-08-13 12:01:25 INFO  HomePage:115 - Sepetteki ürün bir adet arttırıldı...
+{"logLevel":"debug","message":"Executing 'Adres Ekle' using 'class HomePage.adresEkle"}
+{"logLevel":"debug","message":"Executing 'Odeme Bilgileri' using 'class HomePage.odemeBilgileri"}
+2020-08-13 12:01:28 INFO  HomePage:136 - Ödeme Ekranına yönlendiriliyor...
+2020-08-13 12:01:31 INFO  HomePage:143 - Ödeme bilgileri girildi ana sayfaya yönlendiriliyor...
+{"logLevel":"debug","message":"Executing 'Sepet Bosalt' using 'class HomePage.sepetBosalt"}
+2020-08-13 12:01:32 INFO  HomePage:149 - Sepet ekranına yönlendiriliyor...
+2020-08-13 12:01:34 INFO  HomePage:152 - Sepet boşaltıldı...
+{"logLevel":"debug","message":"Executing 'Adres Sil' using 'class HomePage.adresSil"}
+2020-08-13 12:01:34 INFO  HomePage:157 - Adreslerim ekranına yönlendiriliyor...
+2020-08-13 12:01:40 INFO  HomePage:167 - Adreslerim silindi...
